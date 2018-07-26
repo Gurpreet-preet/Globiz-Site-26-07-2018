@@ -4,7 +4,7 @@ post_title: Careers
 author: globizte_globiz1
 post_excerpt: ""
 layout: page
-permalink: https://globiztechnology.com/careers/
+permalink: http://globiztechnology.com/careers/
 published: true
 post_date: 2018-06-14 04:54:16
 ---

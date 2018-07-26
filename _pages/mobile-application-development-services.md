@@ -5,7 +5,7 @@ author: globizte_globiz1
 post_excerpt: ""
 layout: page
 permalink: >
-  https://globiztechnology.com/mobile-application-development-services/
+  http://globiztechnology.com/mobile-application-development-services/
 published: true
 post_date: 2018-06-08 06:38:49
 ---

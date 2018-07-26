@@ -4,8 +4,7 @@ post_title: PPC Company
 author: globizte_globiz1
 post_excerpt: ""
 layout: page
-permalink: >
-  https://globiztechnology.com/ppc-company/
+permalink: http://globiztechnology.com/ppc-company/
 published: true
 post_date: 2018-06-19 15:38:37
 ---

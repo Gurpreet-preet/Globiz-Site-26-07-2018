@@ -5,7 +5,7 @@ author: globizte_globiz1
 post_excerpt: ""
 layout: page
 permalink: >
-  https://globiztechnology.com/meet-the-team/
+  http://globiztechnology.com/meet-the-team/
 published: true
 post_date: 2017-12-07 14:16:07
 ---

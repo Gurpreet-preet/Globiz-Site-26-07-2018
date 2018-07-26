@@ -5,7 +5,7 @@ author: globizte_globiz1
 post_excerpt: ""
 layout: page
 permalink: >
-  https://globiztechnology.com/our-services/
+  http://globiztechnology.com/our-services/
 published: true
 post_date: 2017-12-11 11:25:46
 ---

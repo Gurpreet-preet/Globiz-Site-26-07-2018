@@ -5,7 +5,7 @@ author: globizte_globiz1
 post_excerpt: ""
 layout: page
 permalink: >
-  https://globiztechnology.com/wordpress-development-company/
+  http://globiztechnology.com/wordpress-development-company/
 published: true
 post_date: 2018-06-21 06:20:22
 ---

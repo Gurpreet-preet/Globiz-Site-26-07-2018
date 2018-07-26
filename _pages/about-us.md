@@ -4,7 +4,7 @@ post_title: About Us
 author: globizte_globiz1
 post_excerpt: ""
 layout: page
-permalink: https://globiztechnology.com/about-us/
+permalink: http://globiztechnology.com/about-us/
 published: true
 post_date: 2018-06-08 08:36:50
 ---

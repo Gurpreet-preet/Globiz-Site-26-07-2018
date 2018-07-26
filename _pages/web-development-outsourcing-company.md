@@ -5,7 +5,7 @@ author: globizte_globiz1
 post_excerpt: ""
 layout: page
 permalink: >
-  https://globiztechnology.com/web-development-outsourcing-company/
+  http://globiztechnology.com/web-development-outsourcing-company/
 published: true
 post_date: 2018-07-04 08:19:50
 ---

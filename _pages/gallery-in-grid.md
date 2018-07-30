@@ -5,7 +5,7 @@ author: globizte_globiz1
 post_excerpt: ""
 layout: page
 permalink: >
-  http://globiztechnology.com/elements__trashed/portfolio-list__trashed/gallery-in-grid/
+  https://globiztechnology.com/gallery-in-grid/
 published: true
 post_date: 2017-12-15 15:50:41
 ---

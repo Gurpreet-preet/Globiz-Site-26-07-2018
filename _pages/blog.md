@@ -4,7 +4,7 @@ post_title: Blog
 author: globizte_globiz1
 post_excerpt: ""
 layout: page
-permalink: http://globiztechnology.com/blog/
+permalink: https://globiztechnology.com/blog/
 published: true
 post_date: 2017-12-18 12:33:50
 ---

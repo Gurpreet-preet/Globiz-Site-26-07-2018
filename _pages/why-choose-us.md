@@ -5,7 +5,7 @@ author: globizte_globiz1
 post_excerpt: ""
 layout: page
 permalink: >
-  http://globiztechnology.com/why-choose-us/
+  https://globiztechnology.com/why-choose-us/
 published: true
 post_date: 2017-12-06 09:41:03
 ---

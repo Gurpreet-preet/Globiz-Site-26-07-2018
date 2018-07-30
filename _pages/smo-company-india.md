@@ -5,7 +5,7 @@ author: globizte_globiz1
 post_excerpt: ""
 layout: page
 permalink: >
-  http://globiztechnology.com/smo-company-india/
+  https://globiztechnology.com/smo-company-india/
 published: true
 post_date: 2018-06-19 15:40:04
 ---

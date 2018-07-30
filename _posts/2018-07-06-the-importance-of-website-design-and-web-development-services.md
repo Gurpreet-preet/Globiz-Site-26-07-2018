@@ -7,7 +7,7 @@ author: globizte_globiz1
 post_excerpt: ""
 layout: post
 permalink: >
-  http://globiztechnology.com/2018/07/06/the-importance-of-website-design-and-web-development-services/
+  https://globiztechnology.com/2018/07/06/the-importance-of-website-design-and-web-development-services/
 published: true
 post_date: 2018-07-06 17:26:48
 ---

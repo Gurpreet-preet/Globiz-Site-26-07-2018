@@ -4,7 +4,7 @@ post_title: Portfolio
 author: globizte_globiz1
 post_excerpt: ""
 layout: page
-permalink: http://globiztechnology.com/portfolio/
+permalink: https://globiztechnology.com/portfolio/
 published: true
 post_date: 2017-12-18 08:06:45
 ---

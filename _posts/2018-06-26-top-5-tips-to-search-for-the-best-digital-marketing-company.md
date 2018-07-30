@@ -7,7 +7,7 @@ author: globizte_globiz1
 post_excerpt: ""
 layout: post
 permalink: >
-  http://globiztechnology.com/2018/06/26/top-5-tips-to-search-for-the-best-digital-marketing-company/
+  https://globiztechnology.com/2018/06/26/top-5-tips-to-search-for-the-best-digital-marketing-company/
 published: true
 post_date: 2018-06-26 10:13:08
 ---

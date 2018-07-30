@@ -5,7 +5,7 @@ author: globizte_globiz1
 post_excerpt: ""
 layout: page
 permalink: >
-  http://globiztechnology.com/elements__trashed/team/
+  https://globiztechnology.com/elements__trashed/team/
 published: true
 post_date: 2017-12-18 15:46:49
 ---

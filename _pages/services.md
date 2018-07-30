@@ -4,7 +4,7 @@ post_title: Services
 author: globizte_globiz1
 post_excerpt: ""
 layout: page
-permalink: http://globiztechnology.com/services/
+permalink: https://globiztechnology.com/services/
 published: true
 post_date: 2018-06-08 06:01:20
 ---

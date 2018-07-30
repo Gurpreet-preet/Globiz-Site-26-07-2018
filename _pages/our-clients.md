@@ -4,7 +4,8 @@ post_title: Our Clients
 author: globizte_globiz1
 post_excerpt: ""
 layout: page
-permalink: http://globiztechnology.com/our-clients/
+permalink: >
+  https://globiztechnology.com/our-clients/
 published: true
 post_date: 2017-12-06 15:38:05
 ---

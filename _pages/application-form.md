@@ -5,7 +5,7 @@ author: globizte_globiz1
 post_excerpt: ""
 layout: page
 permalink: >
-  http://globiztechnology.com/application-form/
+  https://globiztechnology.com/application-form/
 published: true
 post_date: 2018-06-14 05:27:10
 ---

@@ -5,7 +5,7 @@ author: globizte_globiz1
 post_excerpt: ""
 layout: page
 permalink: >
-  http://globiztechnology.com/request-a-quote/
+  https://globiztechnology.com/request-a-quote/
 published: true
 post_date: 2018-07-24 05:48:30
 ---

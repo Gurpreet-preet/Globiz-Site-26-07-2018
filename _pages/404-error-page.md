@@ -5,7 +5,7 @@ author: globizte_globiz1
 post_excerpt: ""
 layout: page
 permalink: >
-  http://globiztechnology.com/404-error-page/
+  https://globiztechnology.com/404-error-page/
 published: true
 post_date: 2017-12-12 12:01:16
 ---

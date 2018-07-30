@@ -4,7 +4,7 @@ post_title: Globiz Technology Inc.
 author: globizte_globiz1
 post_excerpt: ""
 layout: page
-permalink: http://globiztechnology.com/
+permalink: https://globiztechnology.com/
 published: true
 post_date: 2017-12-07 15:03:25
 ---

@@ -7,7 +7,7 @@ author: globizte_globiz1
 post_excerpt: ""
 layout: post
 permalink: >
-  http://globiztechnology.com/2018/07/07/these-8-traits-will-help-you-the-leading-seo-services-company-in-india/
+  https://globiztechnology.com/2018/07/07/these-8-traits-will-help-you-the-leading-seo-services-company-in-india/
 published: true
 post_date: 2018-07-07 11:02:17
 ---

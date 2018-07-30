@@ -5,7 +5,7 @@ author: globizte_globiz1
 post_excerpt: ""
 layout: page
 permalink: >
-  http://globiztechnology.com/digital-marketing-company/
+  https://globiztechnology.com/digital-marketing-company/
 published: true
 post_date: 2018-06-08 06:42:38
 ---

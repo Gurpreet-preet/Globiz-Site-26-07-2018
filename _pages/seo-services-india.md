@@ -5,7 +5,7 @@ author: globizte_globiz1
 post_excerpt: ""
 layout: page
 permalink: >
-  http://globiztechnology.com/seo-services-india/
+  https://globiztechnology.com/seo-services-india/
 published: true
 post_date: 2018-06-11 07:38:22
 ---

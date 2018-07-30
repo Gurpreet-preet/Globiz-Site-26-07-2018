@@ -5,7 +5,7 @@ author: globizte_globiz1
 post_excerpt: ""
 layout: page
 permalink: >
-  http://globiztechnology.com/website-designing-company-india/
+  https://globiztechnology.com/website-designing-company-india/
 published: true
 post_date: 2018-06-08 06:28:31
 ---
